@@ -13,12 +13,12 @@ for(let i = 0; i < 200; i++){
 
 // Excited Kitten
 
+i min = 1;
+i max = 20;
 
 for(let i = 0; i <21; i++){
     console.log("Love me, pet me! HSSSSS!"){
-    } if(i % 2 == 0){
+    } else if(i % 2 == 0){
         console.log("human..why you taking pictures of me?")
-    } else if((i)(Math.random()*10) +1 ){
-        console.log("The cat nip made me do it!")
-    }
+    } else if((i)(Math.random()*10) +1 )
 }
